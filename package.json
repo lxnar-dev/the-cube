@@ -1,5 +1,5 @@
 {
-  "name": "bsehovac.github.io",
+  "name": "lxnar-dev.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/bsehovac/bsehovac.github.io.git"
+    "url": "git+ssh://git@github.com/lxnar-dev/lxnar-dev.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bsehovac/bsehovac.github.io/issues"
+    "url": "https://github.com/lxnar-dev/lxnar-dev.github.io/issues"
   },
-  "homepage": "https://github.com/bsehovac/bsehovac.github.io#readme"
+  "homepage": "https://github.com/lxnar-dev/lxnar-dev.github.io#readme"
 }
